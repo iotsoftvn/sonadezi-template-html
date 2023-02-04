@@ -1,0 +1,44 @@
+.w-100 {
+  width: 100%;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.bg-darken {
+  background: #c39411 !important;
+}
+
+.ftco-footer {
+    background: #115ca8;
+}
+
+.ftco-footer a:hover {
+    color: #fff!important;
+}
+
+.ftco-footer .subscribe-form .form-group .submit {
+    background-color: #EE2C5A!important;
+}
+
+.ftco-footer .subscribe-form .form-group .submit:hover {
+    background-color: #EE2C5A!important;
+}
+
+#ftco-navbar {
+  background-color: #115ca8!important;
+}
